@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Словар</string>
+    <string name="type_word">Введите слово</string>
+    <string name="stored_words">Избранное</string>
+    <string name="history_words">История</string>
+    <string name="clear">ОЧИСТИТЬ</string>
+    <string name="delete">Удалить всю историю?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>

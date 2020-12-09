@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_menu"
+        android:icon="@drawable/open"
+        android:title=""
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/stored_words"
+                android:orderInCategory="1"
+                android:title="@string/stored_words" />
+
+            <item
+                android:id="@+id/history_words"
+                android:orderInCategory="2"
+                android:title="@string/history_words" />
+        </menu>
+    </item>
+
+</menu>
